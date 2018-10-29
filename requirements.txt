@@ -3,3 +3,5 @@ dicttoxml
 pdf417gen
 cchardet
 signxml
+pysftp
+num2words
