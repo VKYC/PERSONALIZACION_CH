@@ -11,7 +11,7 @@ from . import currency
 
 from . import honorarios
 
-#from . import invoice
+from . import invoice
 
 from . import libro
 from . import mail
@@ -33,4 +33,4 @@ from . import sii_xml_envio
 from . import global_descuento_recargo
 from . import res_config_settings
 
-from . import invoice
+#from . import invoice
